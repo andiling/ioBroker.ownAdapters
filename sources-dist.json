@@ -1,5 +1,5 @@
 "heliotherm": {
-"meta": "https://raw.githubusercontent.com/andilig/ioBroker.heliotherm/main/io-package.json",
-"icon": "https://raw.githubusercontent.com/andiling/ioBroker.heliotherm/main/admin/regler.png",
+"meta": "https://raw.githubusercontent.com/andilig/ioBroker.heliotherm/master/io-package.json",
+"icon": "https://raw.githubusercontent.com/andiling/ioBroker.heliotherm/master/admin/regler.png",
 "type": "climate-control"
 },
